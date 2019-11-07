@@ -32,7 +32,6 @@ const MainLayout = props =>{
                     justify-content:space-between;
                     align-items:center;
                     height:32px;
-                    background-color:grey;
                     padding:0 40px;
                     box-shadow:rgba(0,0,0,0.2)0px 1px 2px;
                 }
@@ -45,7 +44,8 @@ const MainLayout = props =>{
                 }
                 .link{
                     text-decoration:none;
-                    color:white;
+                    color: #404040;
+
                 }
             `}</style>
         </div>
