@@ -1,8 +1,9 @@
+import MainLayout from '../layouts/MainLayout'
 const ProfilePage = () => {
     return(
-        <div>
-
-        </div>
+        <MainLayout>
+            ProfilePage
+        </MainLayout>
     )
 }
 export default ProfilePage

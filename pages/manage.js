@@ -1,8 +1,9 @@
+import MainLayout from '../layouts/MainLayout'
 const ManagePage = () =>{
     return(
-        <div>
-
-        </div>
+        <MainLayout>
+            ManagePage
+        </MainLayout>
     )
 }
 export default ManagePage

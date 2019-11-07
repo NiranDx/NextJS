@@ -1,9 +1,10 @@
+import MainLayout from '../layouts/MainLayout'
 const App = () => {
         return(
-            <div>
+            <MainLayout>
                 Hello world
-
-            </div>
+            </MainLayout>
+        
         )
 
 }
