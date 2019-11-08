@@ -23,7 +23,7 @@ const MainLayout = props =>{
             <style jsx>{`
                 :global(body){
                     font-family: 'Roboto', sans-serif;
-                    src:url(/static/font/Roboto-Regular.ttf);
+                    src:url(/public/static/font/Roboto-Regular.ttf);
                     font-weight:500;
                     margin:0;
                 }

@@ -1,8 +1,14 @@
 import MainLayout from '../layouts/MainLayout'
+import AddProduct from '../components/AddProduct'
 const ProductPage = () => {
-    return(
+    return (
         <MainLayout>
-            ProductPage
+            <AddProduct />
+            <style jsx>{`
+
+                
+                
+                `}</style>
         </MainLayout>
     )
 }
