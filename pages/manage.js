@@ -1,8 +1,9 @@
 import MainLayout from '../layouts/MainLayout'
+import { Button } from 'antd'
 const ManagePage = () =>{
     return(
         <MainLayout>
-            ManagePage
+               <Button>test</Button>
         </MainLayout>
     )
 }
